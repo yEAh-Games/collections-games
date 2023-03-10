@@ -25,7 +25,7 @@ layout: main
                     <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">
                         {% include date.html date=post.date %}
                         {% if post.version %}
-                                           <p style="float: right;"> <a href="//gamesarchive.yeahgames.net/{{post.permalink | replace 'v1', 'versions'}}"> V{{ post.version}}</a> </p>
+                                           <p style="float: right;"> V{{ post.version}} </p>
 {% endif %}
                     </time>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
