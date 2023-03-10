@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Rules for Wa Wa West ++ [V1]
+title: Rules for Wa Wa West ++
+version: 1
 date: 2022-06-22 20:53
 author: yeahgamesdevs
-image: https://gamesarchive.yeahgames.net/archive/img/thumb/wa-wa-west-plus-plus.png
+image: 'https://gamesarchive.yeahgames.net/archive/img/thumb/wa-wa-west-plus-plus.png'
 comments: true
 category: [Rules]
-description: These are the official rules for the officially-developed yEAh Games Game, Wa Wa West ++.
+description: 'These are the official rules for the officially-developed yEAh Games Game, Wa Wa West ++.'
 tags: 
 - hand
 - games

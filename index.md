@@ -24,6 +24,9 @@ layout: main
                     <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
                     <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">
                         {% include date.html date=post.date %}
+                        {% if post.version %}
+                                            <meta itemprop="datePublished" style="float: right;" content="V{{ post.version}}">
+
                     </time>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <h2 class="post-title" itemprop="name">
