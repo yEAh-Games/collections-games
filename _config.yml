@@ -7,18 +7,14 @@ url: "https://archive.games.yeahgames.net" # the base hostname & protocol for yo
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: PrimeFlix
-user_description: Free web series.
-disqus_username: disqus_username
+username: yeahgames
+user_description: Official archive publications.
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: yeah-games
+twitter_username: yeahgames_
+instagram_username: _yeahgames
 
 # Build settings
 markdown: kramdown

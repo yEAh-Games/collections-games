@@ -32,12 +32,9 @@
       {% endif %}
     </p>
     <ul>
-        {% for link in site.links %}
-          <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
-        {% endfor %}
         <li><a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">Feed</a></li>
     </ul>
-    <p><span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="http://www.rossener.com" target="_blank" class="creator">Thiago Rossener</a></p>
+    <p><span>The Games Archive</span> is a <a href="https://library.yeahgames.net" target="_blank" class="creator">library</a> <a href="https://collections.yeahgames.net" target="_blank" class="creator">collection</a> and part of the <a href="https://www.yeahgames.net" target="_blank" class="creator">yEAh Network</a></p>
 </footer>
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
 {% include stats.html %}
