@@ -26,7 +26,7 @@ layout: main
                         {% include date.html date=post.date %}
                         {% if post.version %}
                                             <meta itemprop="datePublished" style="float: right;" content="V{{ post.version}}">
-
+{% endif %}
                     </time>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <h2 class="post-title" itemprop="name">
