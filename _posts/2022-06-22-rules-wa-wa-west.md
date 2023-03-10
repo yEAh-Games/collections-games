@@ -7,7 +7,8 @@ author: yeahgamesdevs
 image: 'https://gamesarchive.yeahgames.net/archive/img/thumb/wa-wa-west-plus-plus-rules.png'
 comments: true
 category: [Rules]
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+description: These are the official rules for the officially-developed yEAh Games Game, Wa Wa West ++.
+introduction: These are the official rules for the officially-developed yEAh Games Game, Wa Wa West ++.
 tags: 
 - hand
 - games
