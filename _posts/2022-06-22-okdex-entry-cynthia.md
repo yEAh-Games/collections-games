@@ -1,12 +1,12 @@
 ---
 layout: post
-title: OKdex ﹕Cynthia
+title: OKdex﹕Cynthia
 date: 2022-06-22 21:42
 author: yeahgamesdevs
 comments: true
 category: [Random Guy]
 C: Games
-image: /archive/games/random-guy/info/okdex/artwork/cynthia.png
+image: https://gamesarchive.yeahgames.net/archive/games/random-guy/info/okdex/artwork/cynthia.png
 description: This is the official OKdex entry for the Random Guy TCG OKmon character, Cynthia.
 introduction: This is the official OKdex entry for the Random Guy TCG OKmon character, Cynthia.
 tags:
