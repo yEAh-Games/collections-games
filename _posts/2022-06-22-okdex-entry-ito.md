@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OKdex: Ito
+title: OKdex ﹕Ito
 date: 2022-06-22 21:42
 author: yeahgamesdevs
 comments: true
