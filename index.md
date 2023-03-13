@@ -1,17 +1,6 @@
 ---
 layout: main
 ---
-<style>
-.crop {width: 403px;
-
-  height: 268px;
-
-  background-position: center;
-
-  /\* Make the background image cover the area of the &lt;div&gt;, and clip the excess */
-
-  background-size: cover;}
-  </style>
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
