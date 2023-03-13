@@ -1,34 +1,35 @@
 ---
 layout: post
-title: Rules for Wa Wa West ++
-version: 1
-date: 2022-06-22 20:53
+title: Rules for Yic Yac Yoe
+date: 2022-07-07 17:52
 author: yeahgamesdevs
-image: 'https://gamesarchive.yeahgames.net/archive/img/thumb/wa-wa-west-plus-plus-rules.png'
-comments: true
-category: [Wa Wa West ++]
-description: These are the official rules for the officially-developed yEAh Games Game, Wa Wa West ++.
-introduction: These are the official rules for the officially-developed yEAh Games Game, Wa Wa West ++.
+c: games
+tags: [developers, history, official-rules, pro, rules, start, yeah-games]
+link: https://gamesarchive.yeahgames.net/games/rules/yic-yac-yoe/v1
+image: 'https://gamesarchive.yeahgames.net/archive/img/thumb/yic-yac-yoe-rules_placeholder.jpg'
+category: [Yic Yac Yoe]
+description: These are the official rules for the officially-developed yEAh Games Game, Yic Yac Yoe.
+introduction: These are the official rules for the officially-developed yEAh Games Game, Yic Yac Yoe.
 tags: 
 - rules
-- hand
+- board
 - games
-permalink: games/wa-wa-west-plus-plus/rules/v1
+permalink: games/yic-yac-yoe/rules/v1
 ---
 <!-- wp:paragraph -->
-<p>These are the official rules for the yEAh Games-developed game, <em>Wa Wa West ++</em>.</p>
+<p>These are the official rules for the yEAh Games-developed game, <em>Yic Yac Yoe</em>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>CONCEPT/GENERAL RULES</strong>: <br>• <em>Everyone starts with 0 ammo. You win by being the last one alive. </em><br>• <em>Every turn, all players show what they're using that turn at the same time. At this point, all of the individual items' rules (see below) apply. </em><br>• <em>Repeat until there is only one person left.</em> </p>
+<p><strong>CONCEPT/GENERAL RULES</strong>: <br>• <em>Each player places down a mark (on the board with their writing utensil) on their turn. This will vary slightly depending on the version.</em><br>• <em>Contrary to the original game (Tic Tac Toe), the player loses when they place their marker on a spot that completes the (number decided for the length of a row)-long row (e.g., in a 3x3, the player loses when they place their marker to complete a 3-square-long row; the opposite of what happens in Tic Tac Toe.).</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>OTHER RULES: </strong><br>•<em> Any weapon will be defeated by a weapon of the same type greater than it. <br></em>•<em> If there is a conflict between two or more weapons of the same type and level, the first to fire survives, while the others will be hit. <br></em>•<em> Ties are possible. If the first to fire can't be decided, the round will be concluded as a tie between those involved. <br></em>•<em> This game is very flexible. Add your own items if you want! </em></p>
+<p><strong>OTHER RULES: </strong><br>•<em> Other rules will apply depending on variations.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>VARIATIONS</strong>: <br>• <strong>General</strong>: You may decide to exclude some items and/or rules before the game. <br>• <strong>Headstart:</strong> Everyone starts with 1+ ammo instead of 0. <br>• <strong>Blitz:</strong> The game must be played as fast as possible. <br>• <strong>Precision:</strong> All non-bomb weapons attack only the person you're pointing at. <br>• <strong>Concentrated:</strong> Laser Gun only attacks one player of your choice. <br>• <strong>Teams:</strong> Split all players into 2 teams. Kill all players on the other team to win. No friendly fire. <br>• <strong>Thievery:</strong> When you kill a player, you get all their ammo.</p>
+<p><strong>VARIATIONS</strong>: <br><em>To play the game, you must choose one variation per category — any option can be combined with any option:</em><br>⠀⠀<strong>1 — Board size:</strong><br>⠀⠀⠀<strong>↳</strong> Variable to your choice; you can choose the numbers (<em>x </em>by <em>x</em> squares).<br>⠀⠀<strong>2 — Number of placements (markings) on your turn:</strong><br>⠀⠀⠀<strong>↳</strong> <strong><code>1</code></strong> — <em>Default; can be played with custom markings, not just lines.</em><br>⠀⠀⠀<strong>↳</strong> <strong>2</strong> — <em>"Youbles"; is played with connecting lines.</em><br>⠀⠀⠀<strong>↳</strong> <strong>3</strong> — <em>"Yriples"; is played with connecting lines.</em><br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
