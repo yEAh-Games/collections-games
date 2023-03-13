@@ -1,6 +1,17 @@
 ---
 layout: main
 ---
+<style>
+.crop {width: 403px;
+
+  height: 268px;
+
+  background-position: center;
+
+  /\* Make the background image cover the area of the &lt;div&gt;, and clip the excess */
+
+  background-size: cover;}
+  </style>
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
@@ -16,7 +27,7 @@ layout: main
                     <div class="cover">
                         {% include new-post-tag.html date=post.date %}
                         <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
-                            <img src="assets/img/placeholder.png" data-url="{{ post.image }}" class="preload">
+                            <img src="assets/img/placeholder.png" data-url="{{ post.image }}" class="preload crop">
                         </a>
                     </div>
                 {% endif %}
