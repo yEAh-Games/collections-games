@@ -6,7 +6,7 @@ author: yeahgamesdevs
 comments: true
 category: [Random Guy]
 C: Games
-image: https://gamesarchive.yeahgames.net/archive/games/random-guy/info/okdex/artwork/ito.png
+image: https://gamesarchive.yeahgames.net/archive/img/games/random-guy/info/okdex/artwork/ito.png
 description: This is the official OKdex entry for the Random Guy TCG OKmon character, Ito.
 introduction: This is the official OKdex entry for the Random Guy TCG OKmon character, Ito.
 tags:
