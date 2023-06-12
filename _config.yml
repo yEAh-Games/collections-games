@@ -1,7 +1,7 @@
 # Site Settings
-title: Games • Library / yEAh Network
+title: The Games Archive by yEAh
 email: admin@yeahgames.net
-description: Play, discover, learn, and build yEAh Games online. This is the yEAh Archive for Games, viewable with the Games library collection.
+description: Play, discover, learn, and build yEAh Games online. This is the yEAh library collection for games.
 baseurl: ""
 url: "https://gamesarchive.yeahgames.net" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
