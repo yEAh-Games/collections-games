@@ -1,9 +1,9 @@
 # Site Settings
 title: The Games Archive by yEAh
-email: admin@yeahgames.net
+email: admin@ynwk.org
 description: Play, discover, learn, and build yEAh Games online. This is the yEAh library collection for games.
 baseurl: ""
-url: "https://gamesarchive.yeahgames.net" # the base hostname & protocol for your site
+url: "https://gamesarchive.ynwk.org" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
